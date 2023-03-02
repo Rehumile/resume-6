@@ -1,0 +1,145 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    background: #F6F7EB;
+    margin: 0;
+    padding: 0;    
+}
+.flex-box{
+  position: relative;
+  width: 80%;
+display: flex;
+  justify-content: center;
+  margin-left: 120px;
+}
+.flex1{
+    color:#fff;
+    position: relative;
+    background-color: #272828;
+    padding: 40px;
+    width: 30%;
+   
+    
+}
+
+.flex2 {
+   
+    position: relative;
+    background-color: #fff;
+    padding: 40px;
+    width: 70%;
+    
+
+   
+}
+ img {
+    width: 185px;
+    height: 160px;
+    border-radius: 150%;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.blue-heading {
+    color: #38b6ff;
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.black-heading {
+    font-weight: bold;
+    font-size: 16px;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+}
+.sub-heading {
+    
+    margin-top: 0;
+    font-size: 12px;
+    color:#38b6ff;
+}
+
+#nav-bar {
+    
+    width: 30%;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: black;
+    
+}
+#nav-bar a:hover{
+    color: #38b6ff;
+
+}
+#nav-bar h2 {
+    margin: 0;
+    margin-left: 18px;
+}
+#nav-bar ul {
+    margin: 0;
+}
+#nav-bar li {
+   list-style-type:disc; 
+   
+   
+}
+#contact-links a{
+    text-decoration: none;
+    color:#fff; 
+}
+
+#contact-links a:hover{
+    color: #38b6ff
+}
+
+#Name {
+    font-size: 50px;
+    margin-left: 30px;
+    margin-bottom: 2px;
+    font-weight: 150;
+}
+
+#Occupation {
+    margin-left: 30px;
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: normal;
+}
+span a {
+    color: #38b6ff;
+    text-decoration:none;
+}
+
+
+
+
+
+
+
+footer {
+    margin-left: 120px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+}
+footer a {
+color: black;
+text-decoration: none;
+border: 1px solid black;
+padding: 20px;
+background-color: #fff;
+
+}
+footer a:hover {
+    color:#38b6ff
+}*/
+
